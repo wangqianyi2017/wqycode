@@ -1,3 +1,3 @@
 # wqycode
 Keep notes
-test
+学习如何使用python
